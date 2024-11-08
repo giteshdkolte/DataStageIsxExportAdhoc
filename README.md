@@ -2,6 +2,9 @@
 
 This project supports exporting ISX jobs from a given project in DataStage On-Premise.
 
+## Architecture Map
+![export_isx](https://github.com/user-attachments/assets/d338ffcd-fcd5-4e53-bbe5-be18da474fd7)
+
 ## Supported ETL Versions
 - DataStage Infosphere 11.7
 - DataStage Infosphere 11.5
